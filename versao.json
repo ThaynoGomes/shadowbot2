@@ -1,5 +1,5 @@
 {
-  "versao": "1.4.2",
-  "changelog": "Melhorias ant-detecção",
-  "url_download": "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.4.2/shadowbot_1_4_2.exe"
+  "versao": "1.4.4",
+  "changelog": "fix: corrige loop do Tkinter e remove console no executável",
+  "url_download": "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.4.4/shadowbot_1_4_4.exe"
 }
