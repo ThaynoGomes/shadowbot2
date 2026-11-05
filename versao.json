@@ -1,5 +1,5 @@
 {
-  "versao": "1.4.6",
-  "changelog": "Kawarimi nas missões corrigido, telinha com o que o bot está fazendo, quests de adversário forte, tela mais limpa e janela que cabe em notebook. Atenção: Comprar Kawarimi vem ligado e gasta todo o saldo depois de cada missão.",
-  "url_download": "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.4.6/ShadowBotPro_v1.4.6.exe"
+  "versao": "1.4.7",
+  "changelog": "Corrigido: subcontas de automação que não abriam (erro do token) e demora ao fechar o bot.",
+  "url_download": "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.4.7/ShadowBotPro_v1.4.7.exe"
 }
