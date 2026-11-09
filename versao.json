@@ -1,5 +1,6 @@
 {
-  "versao": "1.4.8",
-  "changelog": "Novo: cada conta pode atacar ou fazer missões ao mesmo tempo, aba Combates, caçada por tempo e visual com cantos arredondados.",
-  "url_download": "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.4.8/ShadowBotPro_v1.4.8.exe"
+  "versao": "1.4.9",
+  "changelog": "Novo: aba Farm, abrir baús e vender armas, nicks no lugar de Conta 1/2/3 e atualização automática. Correção: busca por vila com vários ninjas e nick exato na busca e no Ignorar Ninjas.",
+  "url_download": "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.4.9/ShadowBotPro.exe",
+  "sha256": "646a998f5d621a1f2b01081e1ff31cd29efe84c60dc5aa4c7cd81c95b1eea0ec"
 }
