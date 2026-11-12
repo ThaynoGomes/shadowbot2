@@ -1,6 +1,6 @@
 {
   "versao": "1.5.0",
-  "changelog": "Correção: captcha conferido (espera em vez de repetir sem parar) e login automático com limite, parando só a conta deslogada. Farm: vender animal e itens separados, venda durante a recarga, conferir pergaminhos antes do ataque, não repetir alvo do dia e mais rapidez. Log também em Logs/bot.log.",
+  "changelog": "Correção: captcha conferido (espera em vez de repetir sem parar) e login automático com limite, parando só a conta deslogada. Farm: vender animal e itens separados, venda durante a recarga, conferir pergaminhos antes do ataque, não repetir alvo do dia e mais rapidez. Pausa de 1,5 a 2,5 s antes de clicar em Caçar. Log também em Logs/bot.log.",
   "url_download": "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.0/ShadowBotPro.exe",
-  "sha256": "c3bc11e158dec9a3102137032939e7dc5a66475c04b73d15ea26f00c3e4cb6a4"
+  "sha256": "bd5d92c387e1c256e663e4e9a1532cc712c9014f19c417e5540c95ccd11b80da"
 }
