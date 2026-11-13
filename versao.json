@@ -1,6 +1,6 @@
 {
-  "versao": "1.5.0",
-  "changelog": "Correção: captcha conferido (espera em vez de repetir sem parar) e login automático com limite, parando só a conta deslogada. Farm: vender animal e itens separados, venda durante a recarga, conferir pergaminhos antes do ataque, não repetir alvo do dia e mais rapidez. Pausa de 1,5 a 2,5 s antes de clicar em Caçar. Log também em Logs/bot.log.",
-  "url_download": "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.0/ShadowBotPro.exe",
-  "sha256": "bd5d92c387e1c256e663e4e9a1532cc712c9014f19c417e5540c95ccd11b80da"
+  "versao": "1.5.1",
+  "changelog": "Resolve sozinho o novo captcha do botão Atacar. Nova opção \"Jogar como pessoa\" (ligada): varia a busca, passeia por Status, Raids, Ranking e Treino (escolha o atributo ou \"Não treinar\"), navega pelos menus e joga em sessões com pausas. Invasor: só volta quando o tempo de recarga dele acaba. Campo único \"API do Captcha Resolver\". Problemas? Mande o Logs/bot.log.",
+  "url_download": "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.1/ShadowBotPro.exe",
+  "sha256": "e49e7976caae199797bfd52a9155834a046bcd20a77556d623e8d801af298dde"
 }
