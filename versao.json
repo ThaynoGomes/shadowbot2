@@ -1,6 +1,6 @@
 {
-  "versao": "1.5.2",
-  "changelog": "Captcha do botão Atacar: até 4 tentativas automáticas; se precisar de você, o bot apita e avisa na tela (ele não trava). Depois de cada ataque, mostra o resultado do combate por alguns segundos. O passeio no Ranking não abre mais o próprio perfil. Tela principal mais compacta e aba Contas e Login refeita (sem o proxy por conta). Novo campo opcional \"Proxy do captcha\". Problemas? Mande o Logs/bot.log.",
-  "url_download": "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.2/ShadowBotPro.exe",
-  "sha256": "38511f3c967a84ab57823da6ea95142149b32e2afd6585974d5b9f79c72ee806"
+    "versao":  "1.5.3",
+    "changelog":  "Farm: novo modo \"Como na dica do jogo\" para o dia de Ryous de caçada 2x (a 2ª conta junta o saldo das automações e a 1ª ataca ela no fim, com volta opcional), farm em dupla com as duas contas atacando desde o começo, limite de 1,5 bi de bônus por dia respeitado e treino com o saldo no fim. Captcha do Atacar: continua tentando sozinho enquanto espera você (até 8 min). Problemas? Mande o Logs/bot.log.",
+    "url_download":  "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.3/ShadowBotPro.exe",
+    "sha256":  "e67c20b74a5e87ba860d31b202765884c08db7699d5cafd7c0ad7bf2ca9515de"
 }
