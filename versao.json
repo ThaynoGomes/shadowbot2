@@ -1,6 +1,6 @@
 {
-    "versao":  "1.5.3",
-    "changelog":  "Farm: novo modo \"Como na dica do jogo\" para o dia de Ryous de caçada 2x (a 2ª conta junta o saldo das automações e a 1ª ataca ela no fim, com volta opcional), farm em dupla com as duas contas atacando desde o começo, limite de 1,5 bi de bônus por dia respeitado e treino com o saldo no fim. Captcha do Atacar: continua tentando sozinho enquanto espera você (até 8 min). Problemas? Mande o Logs/bot.log.",
-    "url_download":  "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.3/ShadowBotPro.exe",
-    "sha256":  "e67c20b74a5e87ba860d31b202765884c08db7699d5cafd7c0ad7bf2ca9515de"
+    "versao":  "1.5.4",
+    "changelog":  "Login mais simples: agora é só usuário e senha, sem chave. Quem já usa o bot é beta tester, com acesso completo e gratuito até 31/12/2026; em janeiro o bot será lançado oficialmente com planos mensais (Básico, Pro e Completo). Novo aviso de uso na opção Só Invasor e Raids. Problemas? Mande o Logs/bot.log.",
+    "url_download":  "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.4/ShadowBotPro.exe",
+    "sha256":  "c7455cb3bc2c7b9e8bc1f15f5ca016bc77f84737c8694419dd6f7d43eed19e00"
 }
