@@ -1,6 +1,6 @@
 {
-    "versao":  "1.5.4",
-    "changelog":  "Login mais simples: agora é só usuário e senha, sem chave. Quem já usa o bot é beta tester, com acesso completo e gratuito até 31/12/2026; em janeiro o bot será lançado oficialmente com planos mensais (Básico, Pro e Completo). Novo aviso de uso na opção Só Invasor e Raids. Problemas? Mande o Logs/bot.log.",
-    "url_download":  "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.4/ShadowBotPro.exe",
-    "sha256":  "c7455cb3bc2c7b9e8bc1f15f5ca016bc77f84737c8694419dd6f7d43eed19e00"
+    "versao":  "1.5.5",
+    "changelog":  "Novo: Modo História e Bijus (coleta rank A sozinha, ataque às Bijus do clã antes da vida encher, raids do dia e coleta diária da conta). Nova aba Resumo com o dia de cada conta. Pausa humana mais curta, com caçadas por tempo durante a pausa. Curry Especial por último ao comer. Farm também no Dia do Shinobi e no +15% ryous em PvP. Problemas? Mande o Logs/bot.log.",
+    "url_download":  "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.5/ShadowBotPro.exe",
+    "sha256":  "15b1e11e478dfef98d35fb89330f6c9cedac86b25c56ec5b0e0c9f960f0509ce"
 }
