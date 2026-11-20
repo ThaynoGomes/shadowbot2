@@ -1,6 +1,6 @@
 {
-    "versao":  "1.5.5",
-    "changelog":  "Novo: Modo História e Bijus (coleta rank A sozinha, ataque às Bijus do clã antes da vida encher, raids do dia e coleta diária da conta). Nova aba Resumo com o dia de cada conta. Pausa humana mais curta, com caçadas por tempo durante a pausa. Curry Especial por último ao comer. Farm também no Dia do Shinobi e no +15% ryous em PvP. Problemas? Mande o Logs/bot.log.",
-    "url_download":  "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.5/ShadowBotPro.exe",
-    "sha256":  "15b1e11e478dfef98d35fb89330f6c9cedac86b25c56ec5b0e0c9f960f0509ce"
+    "versao":  "1.5.6",
+    "changelog":  "Bijus atacadas assim que cada besta libera, com vida cheia antes de cada luta. Tentativa de vencer a próxima fase do Modo História agora acontece (na pausa humana). Recoleta mais rápida. Come até encher a vida e usa o Invasor para encher de graça. Automações não comem à toa quando já estão protegidas. Menos páginas por ciclo, Invasor na pausa e vigia que destrava o bot se o jogo travar. Problemas? Mande o Logs/bot.log.",
+    "url_download":  "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.6/ShadowBotPro.exe",
+    "sha256":  "4f36e9ff2e095e226ffdbf528c45a0f6ea63b00fdebbd93d5ce29977aad9c782"
 }
