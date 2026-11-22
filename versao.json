@@ -1,6 +1,6 @@
 {
-    "versao":  "1.5.6",
-    "changelog":  "Bijus atacadas assim que cada besta libera, com vida cheia antes de cada luta. Tentativa de vencer a próxima fase do Modo História agora acontece (na pausa humana). Recoleta mais rápida. Come até encher a vida e usa o Invasor para encher de graça. Automações não comem à toa quando já estão protegidas. Menos páginas por ciclo, Invasor na pausa e vigia que destrava o bot se o jogo travar. Problemas? Mande o Logs/bot.log.",
-    "url_download":  "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.6/ShadowBotPro.exe",
-    "sha256":  "4f36e9ff2e095e226ffdbf528c45a0f6ea63b00fdebbd93d5ce29977aad9c782"
+    "versao": "1.5.7",
+    "changelog": "Mais seguro contra detecção: raids em sequência e venda de armas no farm agora por clique, espera quando o servidor recusa uma página, telinha mais discreta e \"Mostrar IP\" só no log (nada na página do jogo). Vigia de travamento mais preciso e a conta para para conferência se um ataque ficar incerto. Problemas? Mande o Logs/bot.log.",
+    "url_download": "https://github.com/ThaynoGomes/shadowbot2/releases/download/1.5.7/ShadowBotPro.exe",
+    "sha256": "a2805f2513230912790eeedf8620096a76447332e3bb66b7689099becfaade5b"
 }
